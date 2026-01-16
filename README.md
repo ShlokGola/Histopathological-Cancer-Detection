@@ -4,7 +4,7 @@ i.e., ResNet-50 and DenseNet-121 are used to analyze histopathology images for c
 their effects on diagnosis accuracy.
 
 The data set that is used for this project is sourced from the online platform Kaggle.
-Link: https://www.kaggle.com/competitions/histopathologic-cancer-detection/data
+Link: https://www.kaggle.com/competitions/histopathologic-cancer-detection/data . 
 In this project I have used only train set and train_labels as I didn't have test labels given to verify
 those for models evalution that we used. So, the train set and train_labels are split in train and text randomly.
 
